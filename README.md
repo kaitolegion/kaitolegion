@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
 Purexploit Team
 </p>
-<h3 align="center">I'm looking for help with ..</h3>
+<h3 align="center">My Skills ..</h3>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Purexploit&color=blue">
    <img src="https://img.shields.io/static/v1?label=&message=Pentester&color=red">
