@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 
 <!--
 **kaitolegion/kaitolegion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,18 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">I'm Kaito Legion<</h1>
-
-<h3 align="center">I'm currently working on ..</h3>
-<p align="center">
-Purexploit Team
-</p>
-<h3 align="center">My Skills ..</h3>
+<h1 align="center">I'm Kaito Legion I'm currently learning and enhancing skills</h1>
+<h2 align="center">I'm Currently studying as freshman BSIT</h2>
+<h1 align="center">Self learner</h1>
+<h3 align="center">My Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Programmer&color=blue">
    <img src="https://img.shields.io/static/v1?label=&message=Pentester&color=red">
    <img src="https://img.shields.io/static/v1?label=&message=BugHunter&color=green">
-   <img src="https://img.shields.io/static/v1?label=&message=Developer&color=orange"><br><br>
+   <img src="https://img.shields.io/static/v1?label=&message=WebDeveloper&color=orange"><br><br>
 </p>
 
 <h3 align="left">Tools and Languages:</h3>
