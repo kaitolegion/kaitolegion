@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 ### How to reach me:
 
-<a style="color:white;" href="https://youtube.com/c/kaitocoding" target="_blank"> <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
-<a style="color:white;"  href="https://facebook.com/kaitogeneralao25" target="_blank"> <img alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+<a href="https://youtube.com/c/kaitocoding" target="_blank"> <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
+<a href="https://facebook.com/kaitogeneralao25" target="_blank"> <img alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
