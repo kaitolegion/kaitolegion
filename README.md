@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">I'm Kaito Legion I'm currently learning and enhancing skills</h1>
-<h2 align="center">I'm Currently studying as freshman BSIT</h2>
+<h1 align="center">I'm Kaito, Currently learning and enhancing skills with self study</h1>
+<h2 align="center">I'm Currently studying 2nd year BSIT as of now</h2>
 <h1 align="center">Self learner</h1>
 <h3 align="center">My Skills</h3>
 <p align="center">
