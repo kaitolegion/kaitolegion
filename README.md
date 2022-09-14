@@ -3,6 +3,10 @@
 <!--
 **kaitolegion/kaitolegion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/kaitolegion">
+  <img alt="Kaito Kid" src="https://mrepol742-gif-randomizer.vercel.app/api/" /> 
+</a> 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
