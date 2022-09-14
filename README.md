@@ -22,15 +22,18 @@ C++                                  ░░░░░░░░░░░░░░�
 
 **ABOUT ME**
 
-***Currently a Second year student at the Davao del Sur State College. Aiming to be a passionate developer in the future.***<br>
-***Continue learning and enhancing skills with self study***
+***- Currently a Second year BSIT student at the Davao del Sur State College. Aiming to be a passionate developer in the future.***<br>
+***- Continue learning and enhancing skills with self study.***<br>
+***- I love to explore and learn about new things.***
+
 
 ```text
-The IDE I mostly used:
+IDE I mostly used:
 
 Sublime Text Editor
 Visual Studio Code
 Notepad ++
+Vim
 
 ```
 
@@ -51,3 +54,5 @@ Notepad ++
 
 <a href="https://youtube.com/c/kaitocoding" target="_blank"> <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
 <a href="https://facebook.com/kaitogeneralao25" target="_blank"> <img alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
