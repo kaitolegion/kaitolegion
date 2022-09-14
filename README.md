@@ -1,9 +1,39 @@
-### Hello world! 👋
+### Hi👋
 
+<p align="center">
+    <img src="https://c.tenor.com/O2-Vi4z6eqsAAAAC/detective-conan-shinichi-kudo.gif" alt="Detective Conan"  width="400" />
+ </p>
+ 
+ <p align="center">
+    <h1 align="center"><a href="">KAITO GENERALAO</a></h1>
+ </p>
 
-<h1 align="center">I'm Kaito, Currently learning and enhancing skills with self study</h1>
-<h2 align="center">I'm Currently studying 2nd year BSIT as of now</h2>
-<h1 align="center">Self learner</h1>
+```text
+Programming Languages:
+
+Python                               █████████░░░░░░░░░░░░░░░░   70.39% 
+HTML                                 ███████████░░░░░░░░░░░░░░   75.49% 
+PHP                                  █████████████░░░░░░░░░░░░   80.59% 
+Java                                 █████░░░░░░░░░░░░░░░░░░░░   20.39% 
+JavaScript                           █░░░░░░░░░░░░░░░░░░░░░░░░   15.00% 
+C++                                  ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+
+```
+
+**ABOUT ME**
+
+***Currently a Second year student at the Davao del Sur State College. Aiming to be a passionate developer in the future.***<br>
+***Continue learning and enhancing skills with self study***
+
+```text
+The IDE I mostly used:
+
+Sublime Text Editor
+Visual Studio Code
+Notepad ++
+
+```
+
 <h3 align="center">My Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Programmer&color=blue">
