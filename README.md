@@ -1,11 +1,16 @@
-### Hi👋
-
+### Skills / Abilities
+* Python
+* PHP
+* JAVA
+* C/C++
+* GNU/Linux
+* Peneteration Testing
 <p align="center">
     <img src="https://c.tenor.com/O2-Vi4z6eqsAAAAC/detective-conan-shinichi-kudo.gif" alt="Detective Conan"  width="400" />
  </p>
  
  <p align="center">
-    <h1 align="center"><a href="">KAITO GENERALAO</a></h1>
+    <h1 align="center"><a href="">KAITO</a></h1>
  </p>
 
 ```text
