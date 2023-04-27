@@ -1,4 +1,12 @@
-### Skills / Abilities
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="200" width="300" alt="KAITOLEGION"></a>
+  <br>
+  <a href="">KAITO</a>
+  <br>
+</h1>
+ 
+ ### Skills / Abilities
 * Python
 * PHP
 * JAVA
@@ -8,20 +16,17 @@
 <p align="center">
     <img src="https://c.tenor.com/O2-Vi4z6eqsAAAAC/detective-conan-shinichi-kudo.gif" alt="Detective Conan"  width="400" />
  </p>
- 
- <p align="center">
-    <h1 align="center"><a href="">KAITO</a></h1>
- </p>
+
 
 ```text
-Programming Languages:
+Languages:
 
-Python                               █████████░░░░░░░░░░░░░░░░   70.39% 
-HTML                                 ███████████░░░░░░░░░░░░░░   75.49% 
-PHP                                  █████████████░░░░░░░░░░░░   80.59% 
-Java                                 █████░░░░░░░░░░░░░░░░░░░░   20.39% 
-JavaScript                           █░░░░░░░░░░░░░░░░░░░░░░░░   15.00% 
-C++                                  ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+Python                               ██████████████████░░░░░░░   80.39% 
+HTML                                 █████████████████████████   100.00% 
+PHP                                  █████████████████░░░░░░░░   79.59% 
+Java                                 ███████████░░░░░░░░░░░░░░   40.39% 
+JavaScript                           ██████░░░░░░░░░░░░░░░░░░░   25.40% 
+C++                                  ██████░░░░░░░░░░░░░░░░░░░   25.25%
 
 ```
 
