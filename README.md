@@ -1,34 +1,26 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="200" width="300" alt="KAITOLEGION"></a>
+  <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="100" width="100" alt="KAITOLEGION"></a>
   <br>
   <a href="">KAITO</a>
   <br>
 </h1>
- 
- ### Skills / Abilities
-* Python
-* PHP
-* JAVA
-* C/C++
-* GNU/Linux
-* Peneteration Testing
-<p align="center">
-    <img src="https://c.tenor.com/O2-Vi4z6eqsAAAAC/detective-conan-shinichi-kudo.gif" alt="Detective Conan"  width="400" />
- </p>
-
 
 ```text
 Languages:
 
-Python                               ██████████████████░░░░░░░   80.39% 
-HTML                                 █████████████████████████   100.00% 
-PHP                                  █████████████████░░░░░░░░   79.59% 
-Java                                 ███████████░░░░░░░░░░░░░░   40.39% 
-JavaScript                           ██████░░░░░░░░░░░░░░░░░░░   25.40% 
-C++                                  ██████░░░░░░░░░░░░░░░░░░░   25.25%
+HTML                      █████████████████████████   100.00% 
+Python                    █████████████████████░░░░   90.39%
+Bash                      ████████████████████░░░░░   80.00% 
+PHP                       █████████████████░░░░░░░░   79.59% 
+Java                      ███████████░░░░░░░░░░░░░░   40.39%
+JavaScript                ██████░░░░░░░░░░░░░░░░░░░   25.40% 
+C/C++                     ██████░░░░░░░░░░░░░░░░░░░   25.25%
 
 ```
+<p align="center">
+    <img src="https://c.tenor.com/O2-Vi4z6eqsAAAAC/detective-conan-shinichi-kudo.gif" alt="Detective Conan"  width="400" />
+ </p>
 
 **ABOUT ME**
 
@@ -43,6 +35,8 @@ IDE I mostly used:
 Sublime Text Editor
 Visual Studio Code
 Notepad ++
+Neovim
+Xcode
 Vim
 
 ```
