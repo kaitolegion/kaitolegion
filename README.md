@@ -14,7 +14,8 @@ Python                    ██████████████████
 Bash                      ████████████████████░░░░░   80.00% 
 PHP                       █████████████████░░░░░░░░   79.59% 
 Java                      ███████████░░░░░░░░░░░░░░   40.39%
-JavaScript                ██████░░░░░░░░░░░░░░░░░░░   25.40% 
+Swift/SwiftUI             ████████░░░░░░░░░░░░░░░░░   35.25%
+JavaScript                ██████░░░░░░░░░░░░░░░░░░░   25.40%
 C/C++                     ██████░░░░░░░░░░░░░░░░░░░   25.25%
 
 ```
@@ -60,6 +61,6 @@ Vim
 ### How to reach me:
 
 <a href="https://youtube.com/c/kaitocoding" target="_blank"> <img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
-<a href="https://facebook.com/kaitogeneralao25" target="_blank"> <img alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+<a href="https://facebook.com/chr1zboy" target="_blank"> <img alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
