@@ -9,6 +9,7 @@
 ### Skills and Abilities:
 * PHP/Python
 * GNU/Linux
+* C# (Visual Studio)
 * SWIFT/SWIFTUI (XCODE)
 * Android Development
 * Penetration Testing
