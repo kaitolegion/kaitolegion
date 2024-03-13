@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-### Skills and Abilities:
+### Skill:
 * PHP/Python
 * GNU/Linux
 * C# (Visual Studio)
@@ -30,6 +30,7 @@
   
 **Interest**
 * Machine Learning
+* Data Scientist
 
 <img src="https://c.tenor.com/O2-Vi4z6eqsAAAAC/detective-conan-shinichi-kudo.gif" alt="Detective Conan"  width="400" align="center"/>
 <h3 align="center">My Skills</h3>
