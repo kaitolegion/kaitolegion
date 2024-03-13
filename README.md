@@ -6,9 +6,10 @@
   <br>
 </h1>
 
-### Skill:
+### Skill
 * PHP/Python
 * GNU/Linux
+* NodeJS
 * C# (Visual Studio)
 * SWIFT/SWIFTUI (XCODE)
 * Android Development
