@@ -10,9 +10,10 @@
 * PHP/Python
 * GNU/Linux
 * NodeJS
-* C# (Visual Studio)
+* Laravel
+* C# (Desktop App Dev)
 * SWIFT/SWIFTUI (XCODE)
-* Android Development
+* JAVA (Android Dev)
 * Penetration Testing
 
 
