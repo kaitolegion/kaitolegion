@@ -15,35 +15,18 @@
 
 **Designing**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind Css" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo" title="PhotoShop" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind,figma,ps" height="40"/>
 </div>
 
 
 **Web Development**
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="react logo" title="React.js"  />
-  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" alt="nodejs logo" title="Node.js"/>
 </div>
 
 **Database Management**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase" />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite logo" title="SQLite" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" height="40" alt="mongodb logo" title="MongoDB" />
 </div>
 
 <hr>
@@ -52,18 +35,7 @@
 
 **IDE's**
 <div align="left">
-<img src="https://skillicons.dev/icons?i=vscode" height="40" title="Visual Studio Code"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=vscodium" height="40" title="VS Codium"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=sublime" height="40" title="Sublime"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" title="Android Studio"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" title="Visual Studio"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=arduino" height="40" title="Arduino"/>
-  <img width="12" />
+<img src="https://skillicons.dev/icons?i=vscode,vscodium,sublime,androidstudio,visualstudio,arduino" height="40""/>
 </div>
 
 **Knowledged**
