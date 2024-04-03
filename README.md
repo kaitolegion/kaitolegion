@@ -3,8 +3,15 @@
   <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="100" width="100" alt="KAITOLEGION"></a>
   <br>
   <pre><a href="">KAITO CODING</a></pre>
-  <br>
 </h1>
+
+**Codenames**
+<br>
+<img alt="Mr.KaitoX" src="https://img.shields.io/badge/Codename%201-Mr.KaitoX-blue?style=flat">
+<br>
+<img alt="Kaito Legion" src="https://img.shields.io/badge/Codename%202-Kaito Legion-blue?style=flat">
+<br>
+<img alt="Kaito Coding" src="https://img.shields.io/badge/Codename%202-Kaito Coding-blue?style=flat">
 
 ### Technical Skills
 
