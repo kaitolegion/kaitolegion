@@ -10,15 +10,7 @@
 
 **Programming**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="JAVA" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" title="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" title="Bash Scripting" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,py,php,bash" height="40" />
 </div>
 
 **Designing**
