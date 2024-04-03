@@ -2,18 +2,103 @@
   <br>
   <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="100" width="100" alt="KAITOLEGION"></a>
   <br>
-  <a href="">KAITO PROFILE</a>
+  <pre><a href="">KAITO CODING</a></pre>
   <br>
 </h1>
 
-### Skill
-* PHP/Python
-* GNU/Linux
-* NodeJS
-* Laravel
-* C# (Desktop App Dev)
+### Technical Skills
+
+**Programming**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="JAVA" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" title="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" title="Bash Scripting" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" title="PHP" />
+</div>
+
+**Designing**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind Css" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo" title="PhotoShop" />
+  <img width="12" />
+</div>
+
+
+**Web Development**
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="react logo" title="React.js"  />
+  <img width="12" />
+</div>
+
+**Database Management**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase" />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite logo" title="SQLite" />
+  <img width="12" />
+</div>
+
+<hr>
+
+### Tools and Technologies
+
+**IDE's**
+<div align="left">
+<img src="https://skillicons.dev/icons?i=vscode" height="40" title="Visual Studio Code"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=vscodium" height="40" title="VS Codium"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=sublime" height="40" title="Sublime"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" title="Android Studio"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" title="Visual Studio"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=arduino" height="40" title="Arduino"/>
+  <img width="12" />
+</div>
+
+**Knowledged**
+<div align="left">
+   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" title="Cloudflare"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Post Man"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" title="Ubuntu"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=vim" height="40" title="VIM"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=wordpress" height="40" title="Wordpress"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=workers" height="40" title="Workers"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow"/>
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" title="Raspberry Pi"/>
+  <img width="12" />
+</div>
+
+
+### Other Skills
 * SWIFT/SWIFTUI (XCODE)
-* JAVA (Android Dev)
 * Penetration Testing
 
 
