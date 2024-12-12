@@ -2,13 +2,13 @@
   <br>
   <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="100" width="100" alt="KAITOLEGION"></a>
   <br>
-  <pre><a href="">KAITO CODING</a></pre>
+  <pre><a href="">< KAITO CODING /></a></pre>
+  <div style="flex">
+    <img alt="Mr.KaitoX" src="https://img.shields.io/badge/Codename%201-Mr.KaitoX-blue?style=flat">
+    <img alt="Kaito Legion" src="https://img.shields.io/badge/Codename%202-Kaito Legion-blue?style=flat">
+    <img alt="Kaito Coding" src="https://img.shields.io/badge/Codename%202-Kaito Coding-blue?style=flat">
+  </div>
 </h1>
-
-### Names
-<img alt="Mr.KaitoX" src="https://img.shields.io/badge/Codename%201-Mr.KaitoX-blue?style=flat">
-<img alt="Kaito Legion" src="https://img.shields.io/badge/Codename%202-Kaito Legion-blue?style=flat">
-<img alt="Kaito Coding" src="https://img.shields.io/badge/Codename%202-Kaito Coding-blue?style=flat">
 
 ### Technical Skills
 
@@ -19,30 +19,31 @@
 
 **Designing**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,figma,ps" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,figma,ps,css" height="40"/>
 </div>
 
 
 **Web Development**
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" alt="nodejs logo" title="Node.js"/>
+   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,svelte" height="40" alt="nodejs logo" title="Node.js"/>
 </div>
 
-**Database Management**
+**Database**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" height="40" alt="mongodb logo" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,supabase" height="40" alt="mongodb logo" title="MongoDB" />
 </div>
+
 
 <hr>
 
-### Tools and Technologies
+### Tools and technologies I used
 
 **IDE's**
 <div align="left">
 <img src="https://skillicons.dev/icons?i=vscode,vscodium,sublime,androidstudio,visualstudio,arduino" height="40""/>
 </div>
 
-**Knowledged**
+**Knowledge**
 <div align="left">
    <img src="https://skillicons.dev/icons?i=cloudflare" height="40" title="Cloudflare"/>
   <img width="12" />
@@ -64,14 +65,13 @@
   <img width="12" />
 </div>
 
-
-### Other Skills
+**Other**
 * SWIFT/SWIFTUI (XCODE)
 * Penetration Testing
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cvar1984&layout=pie&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitolegion&layout=pie&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kaitolegion&hide_border=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" align="right">
 </p>
 
@@ -79,11 +79,11 @@
 
 **About Me**
 
-* Currently a third year BSIT student at the Davao del Sur State College. Aiming to be a passionate developer in the future.<br>
+* Currently a fourth year college BSIT student at Davao del Sur State College (DSSC). Aiming to be a passionate developer in the future.<br>
 * Continue learning and enhancing skills with self study.<br>
 * I love to explore and learn about new things.
   
-**Interest**
+**Interested in**
 * Machine Learning
 * Data Scientist
 
@@ -102,8 +102,8 @@
 
 - 2021 Goals Contribute More Open Source Projects:
 
-### How to reach me:
+### Reach me:
 
 <a href="https://facebook.com/kaitocoding" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-Kaito%20Coding-blue?style=for-the-badge&logo=facebook"></a>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img height="120" alt="Thanks" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
