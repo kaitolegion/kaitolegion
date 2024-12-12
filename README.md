@@ -33,6 +33,10 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,supabase" height="40" alt="mongodb logo" title="MongoDB" />
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kaitocoding/count.svg" />
+</p>
 
 <hr>
 
