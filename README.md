@@ -6,7 +6,7 @@
   <div style="flex">
     <img alt="Mr.KaitoX" src="https://img.shields.io/badge/Codename%201-Mr.KaitoX-blue?style=flat">
     <img alt="Kaito Legion" src="https://img.shields.io/badge/Codename%202-Kaito Legion-blue?style=flat">
-    <img alt="Kaito Coding" src="https://img.shields.io/badge/Codename%202-Kaito Coding-blue?style=flat">
+    <img alt="Kaito Coding" src="https://img.shields.io/badge/Codename%203-Kaito Coding-blue?style=flat">
   </div>
 </h1>
 
