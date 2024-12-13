@@ -14,7 +14,7 @@
 
 **Programming**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,py,php,bash" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,py,php,bash,flutter" height="40" />
 </div>
 
 **Designing**
