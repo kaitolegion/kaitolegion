@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="100" width="100" alt="KAITOLEGION"></a>
+  <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="100" width="100" style="border-radius:100%;" alt="KAITOLEGION"></a>
   <br>
   <pre><a href="">< KAITO CODING /></a></pre>
   <div style="flex">
