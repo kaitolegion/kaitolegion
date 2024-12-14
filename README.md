@@ -8,6 +8,9 @@
     <img alt="Kaito Legion" src="https://img.shields.io/badge/Codename%202-Kaito Legion-blue?style=flat">
     <img alt="Kaito Coding" src="https://img.shields.io/badge/Codename%203-Kaito Coding-blue?style=flat">
   </div>
+    <div style="flex">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fitsmenewbie03%2Fitsmenewbie03%2Fmain%2Fres.json&query=%24.wpm&suffix=WPM&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=%23e0b114"/> 
+  </div>
 </h1>
 
 ### Technical Skills
