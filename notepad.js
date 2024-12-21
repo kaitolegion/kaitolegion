@@ -15,7 +15,7 @@ const throttle = (func, delay) => {
 }
 
 const passwdPrompt = () => {
-    const passwd = window.prompt('Please enter password')
+    const passwd = window.prompt('Please enter your password is required')
     if (passwd == null) return;
 
     if (!passwd.trim()) {
@@ -57,7 +57,7 @@ const renderMarkdown = (node, text) => {
 }
 
 window.addEventListener('DOMContentLoaded', function () {
-    const $textarea = document.querySelector('#contents')
+    const $textarea = document.querySelector('#tinymce')
     const $loading = document.querySelector('#loading')
     const $pwBtn = document.querySelector('.opt-pw')
     const $modeBtn = document.querySelector('.opt-mode > input')
