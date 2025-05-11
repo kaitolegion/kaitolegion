@@ -11,6 +11,7 @@
     <div style="flex">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkaitolegion%2Fkaitolegion%2Fmain%2Fwpm.json&query=%24.wpm&suffix=WPM&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=%23e0b114"/> 
   </div>
+    
 </h1>
 
 ### Technical Skills
@@ -98,7 +99,7 @@
 <p align="center">
    <img src="https://img.shields.io/static/v1?label=&message=Programmer&color=blue">
    <img src="https://img.shields.io/static/v1?label=&message=Pentester&color=red">
-   <img src="https://img.shields.io/static/v1?label=&message=Editing&color=yellow">
+   <img src="https://img.shields.io/static/v1?label=&message=Designer&color=yellow">
    <img src="https://img.shields.io/static/v1?label=&message=BugBountyHunter&color=green">
    <img src="https://img.shields.io/static/v1?label=&message=WebDeveloper&color=orange">
    <img src="https://img.shields.io/static/v1?label=&message=AndroidDeveloper&color=lime">
