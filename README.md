@@ -11,7 +11,7 @@
     <div style="flex">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkaitolegion%2Fkaitolegion%2Fmain%2Fwpm.json&query=%24.wpm&suffix=WPM&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=%23e0b114"/> 
   </div>
-    
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1F71F7&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaito+Coding+....+;Welcome+to+My+Github+Profile" alt="Typing SVG" /></a>
 </h1>
 
 ### Technical Skills
