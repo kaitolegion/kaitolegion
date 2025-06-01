@@ -3,38 +3,22 @@
   <a href=""><img src="https://avatars.githubusercontent.com/u/47966968?v=4" hight="100" width="100" style="border-radius:100%;" alt="KAITOLEGION"></a>
   <br>
   <pre><a href="">< KAITO CODING /></a></pre>
-  <div style="flex">
-    <img alt="Mr.KaitoX" src="https://img.shields.io/badge/Codename%201-Mr.KaitoX-blue?style=flat">
-    <img alt="Kaito Legion" src="https://img.shields.io/badge/Codename%202-Kaito Legion-blue?style=flat">
-    <img alt="Kaito Coding" src="https://img.shields.io/badge/Codename%203-Kaito Coding-blue?style=flat">
-  </div>
-    <div style="flex">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkaitolegion%2Fkaitolegion%2Fmain%2Fwpm.json&query=%24.wpm&suffix=WPM&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=%23e0b114"/> 
-  </div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1F71F7&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaito+Coding+....+;Welcome+to+My+Github+Profile" alt="Typing SVG" /></a>
+
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1F71F7&random=true&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Kaito+Coding+....+;Welcome+to+My+Github+Profile" alt="Typing SVG" /></a>
 </h1>
 
-### Technical Skills
+### Language and tools I used
 
-**Programming**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,py,php,bash,flutter" height="40" />
-</div>
-
-**Designing**
-<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript,py,php,bash,flutter,golang" height="40" />
   <img src="https://skillicons.dev/icons?i=tailwind,figma,ps,css" height="40"/>
-</div>
-
-
-**Web Development**
-<div align="left">
-   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,svelte" height="40" alt="nodejs logo" title="Node.js"/>
-</div>
-
-**Database**
-<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,svelte" height="40" alt="nodejs logo" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite,supabase" height="40" alt="mongodb logo" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=vscode,vscodium,sublime,androidstudio,visualstudio,arduino" height="40""/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,linux,postman,ubuntu,vim,wordpress,workers,tensorflow,raspberrypi" height="40" title="Cloudflare"/>
+
 </div>
 
 <p align="center"> 
@@ -42,40 +26,15 @@
   <img src="https://profile-counter.glitch.me/kaitocoding/count.svg" />
 </p>
 
-<hr>
+### Others
 
-### Tools and technologies I used
-
-**IDE's**
-<div align="left">
-<img src="https://skillicons.dev/icons?i=vscode,vscodium,sublime,androidstudio,visualstudio,arduino" height="40""/>
-</div>
-
-**Knowledge**
-<div align="left">
-   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" title="Cloudflare"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Post Man"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" title="Ubuntu"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=vim" height="40" title="VIM"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=wordpress" height="40" title="Wordpress"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=workers" height="40" title="Workers"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" title="TensorFlow"/>
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" title="Raspberry Pi"/>
-  <img width="12" />
-</div>
-
-**Other**
 * SWIFT/SWIFTUI (XCODE)
 * Penetration Testing
+
+**TryHackMe pr0F1le**
+<div>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/p33tp00t.png" alt="Your Image Badge" />
+</div>
 
 
 <p>
@@ -96,15 +55,6 @@
 * Data Scientist
 
 <img src="https://c.tenor.com/O2-Vi4z6eqsAAAAC/detective-conan-shinichi-kudo.gif" alt="Detective Conan"  width="400" align="center"/>
-<p align="center">
-   <img src="https://img.shields.io/static/v1?label=&message=Programmer&color=blue">
-   <img src="https://img.shields.io/static/v1?label=&message=Pentester&color=red">
-   <img src="https://img.shields.io/static/v1?label=&message=Designer&color=yellow">
-   <img src="https://img.shields.io/static/v1?label=&message=BugBountyHunter&color=green">
-   <img src="https://img.shields.io/static/v1?label=&message=WebDeveloper&color=orange">
-   <img src="https://img.shields.io/static/v1?label=&message=AndroidDeveloper&color=lime">
-  <br><br>
-</p>
 
 <h3 align="left">Goals:</h3>
 
