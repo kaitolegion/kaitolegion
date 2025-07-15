@@ -47,7 +47,7 @@
 
 **About Me**
 
-* Currently a fourth year college BSIT student at Davao del Sur State College (DSSC). Aiming to be a passionate developer in the future.<br>
+* Graduated Bachelor of Science in Information Technology at Davao del Sur State College (DSSC). Aiming to be a passionate developer in the future.<br>
 * Continue learning and enhancing skills with self study.<br>
 * I love to explore and learn about new things.
   
